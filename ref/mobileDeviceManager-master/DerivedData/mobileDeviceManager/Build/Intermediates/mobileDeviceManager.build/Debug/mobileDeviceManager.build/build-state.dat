@@ -1,0 +1,569 @@
+TmobileDeviceManager
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch.pch mobileDeviceManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/main.o /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/MobileDeviceAccess.o /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/DeviceAdapter.o /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug/mobileDeviceManager normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005283DD3800000000000000AA
+t1384373560
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052676DCD000000000000044C
+t1382510029
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052676DCD00000000000001DB
+t1382510029
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c0000000052676DCD00000000002682C8
+t1382510029
+s2523848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c0000000052676DCD0000000000007D5C
+t1382510029
+s32092
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c0000000052676DCD0000000000020D64
+t1382510029
+s134500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c0000000052676DCD000000000001B3B8
+t1382510029
+s111544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c0000000052676DCD0000000000034F94
+t1382510029
+s216980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c0000000052676DCD000000000000CB08
+t1382510029
+s51976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c0000000052676DCD000000000002C5F4
+t1382510029
+s181748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c0000000052676DCD000000000002B9A8
+t1382510029
+s178600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c0000000052676DCD0000000000011EF8
+t1382510029
+s73464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052676DCD0000000000059898
+t1382510029
+s366744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052676DCD000000000000253C
+t1382510029
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000052676DCD000000000004C7C4
+t1382510029
+s313284
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052676DCD0000000000085C78
+t1382510029
+s547960
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052676DCD000000000008B2C4
+t1382510029
+s570052
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c0000000052676DCD000000000000979C
+t1382510029
+s38812
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c0000000052676DCD00000000000223B4
+t1382510029
+s140212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c0000000052676DCD0000000000071A98
+t1382510029
+s465560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c0000000052676DCE0000000000017E1C
+t1382510030
+s97820
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c0000000052676DCE000000000004F094
+t1382510030
+s323732
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c0000000052676DCE000000000003AA44
+t1382510030
+s240196
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c0000000052676DCE00000000000383CC
+t1382510030
+s230348
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c0000000052676DCE000000000001B66C
+t1382510030
+s112236
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052676DCE0000000000030444
+t1382510030
+s197700
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052676DCE00000000000C9E68
+t1382510030
+s826984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c0000000052676DCE00000000000394F8
+t1382510030
+s234744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice
+c0000000052676DD1000000000005CF90
+t1382510033
+s380816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/crt1.10.6.o
+c0000000052676DD200000000000022C4
+t1382510034
+s8900
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c0000000052676DD2000000000000681C
+t1382510034
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+c0000000052676DD20000000000014EF8
+t1382510034
+s85752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c0000000052676DD20000000000004734
+t1382510034
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052676DD2000000000000FC6C
+t1382510034
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052676DD2000000000000F6A0
+t1382510034
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c0000000052676DD20000000000006254
+t1382510034
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000052676DD2000000000000E0F8
+t1382510034
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c0000000052676DD2000000000000D6DC
+t1382510034
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c0000000052676DD20000000000006308
+t1382510034
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c0000000052676DD20000000000004050
+t1382510034
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c0000000052676DD20000000000008570
+t1382510034
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c0000000052676DD20000000000005EA0
+t1382510034
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c0000000052676DD20000000000005FAC
+t1382510034
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c0000000052676DD20000000000004440
+t1382510034
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000052676DD2000000000000AA28
+t1382510034
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c0000000052676DD20000000000003E2C
+t1382510034
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c0000000052676DD20000000000030A24
+t1382510034
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c0000000052676DD20000000000005E54
+t1382510034
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c0000000052676DD20000000000006A90
+t1382510034
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c0000000052676DD200000000000178AC
+t1382510034
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c0000000052676DD2000000000001ADC8
+t1382510034
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052676DD2000000000001028C
+t1382510034
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c0000000052676DD20000000000008800
+t1382510034
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052676DD20000000000011090
+t1382510034
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000052676DD2000000000000882C
+t1382510034
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c0000000052676DD200000000000067AC
+t1382510034
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c0000000052676DD20000000000008DEC
+t1382510034
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c0000000052676DD20000000000004C08
+t1382510034
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c0000000052676DD200000000000023C0
+t1382510034
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c0000000052676DD2000000000000439C
+t1382510034
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c0000000052676DD20000000000006768
+t1382510034
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c0000000052676DD200000000000172F4
+t1382510034
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+c00000000524CBA62000000000000C250
+t1380760162
+s49744
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c0000000052676DDA0000000000001750
+t1382510042
+s5968
+
+N/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice
+c00000000529517C7000000000028ED30
+t1385502663
+s2682160
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch.pch
+t1385501604
+s114956
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/DeviceAdapter.o
+t1385511324
+s17084
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/MobileDeviceAccess.o
+t1385511324
+s202496
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/main.o
+t1385510790
+s13384
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/mobileDeviceManager.LinkFileList
+c00000000529513A40000000000000257
+t1385501604
+s599
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug/mobileDeviceManager
+t1385511238
+s135680
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.h
+c000000004DE82B78000000000000021E
+t1307061112
+s542
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.m
+c00000000529539920000000000000789
+t1385511314
+s1929
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.h
+c000000005295375B000000000000DE9F
+t1385510747
+s56991
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m
+c000000005295399A0000000000013EA2
+t1385511322
+s81570
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/main.m
+c000000004DE82B780000000000000E32
+t1307061112
+s3634
+
+N/Users/tyt_g207/Downloads/mobileDeviceManager-master/mobileDeviceManager-Prefix.pch
+c000000004DE82B78000000000000008D
+t1307061112
+s141
+
+CBuild AST from /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.m
+r0
+
+CBuild AST from /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m
+r0
+
+CBuild AST from /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8ca0f91b7145b841^3fadfa1b7145b841^---0#1#1#--18"Check dependencies36"67B86D38-F3B0-41C5-B103-0B928C401ADF-
+
+CCompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/DeviceAdapter.o /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407204123.981172
+e407204124.843213
+r1
+xCompileC
+xDerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/DeviceAdapter.o
+x/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.m
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.h
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.m249"CompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/DeviceAdapter.o Source/DeviceAdapter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera94efb1b7145b841^76ddd71c7145b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.m0000000000000000^3959"CompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/DeviceAdapter.o Source/DeviceAdapter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tyt_g207/Downloads/mobileDeviceManager-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-generated-files.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-own-target-headers.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-all-target-headers.hmap -iquote /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-project-headers.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/DerivedSources/x86_64 -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/DerivedSources -F/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug -include /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch -MMD -MT dependencies -MF /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/DeviceAdapter.d --serialize-diagnostics /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/DeviceAdapter.dia -c /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.m -o /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/DeviceAdapter.o36"BBB76C41-76E1-4D9D-910F-10AAFCDA3496-
+b6F253861-DA95-45DA-AB42-F83A8BE42522
+
+CCompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/MobileDeviceAccess.o /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407204123.981034
+e407204124.973926
+r1
+xCompileC
+xDerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/MobileDeviceAccess.o
+x/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.h
+o/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m:1904:47: warning: data argument not used by format string [-Wformat-extra-args]
+o                NSLog(@"-(void)%@: (id)notificationname;",s,s);
+o                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   ^
+o/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m:2070:10: warning: incompatible pointer types assigning to 'NSDictionary *' from 'NSArray *' [-Wincompatible-pointer-types]
+o        message = [NSArray arrayWithObjects:
+o                ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+oIn file included from /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m:8:
+oIn file included from /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.h:39:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h:89:1: note: class method 'arrayWithObjects:' is assumed to return an instance of its receiver type ('NSArray *')
+o+ (instancetype)arrayWithObjects:(id)firstObj, ... NS_REQUIRES_NIL_TERMINATION;
+o^
+o/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m:2591:12: warning: incompatible pointer types assigning to 'NSMutableArray *' from 'NSArray *' [-Wincompatible-pointer-types]
+o                                result = [NSArray arrayWithArray:result];
+o                                       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+oIn file included from /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m:8:
+oIn file included from /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.h:39:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:10:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h:90:1: note: class method 'arrayWithArray:' is assumed to return an instance of its receiver type ('NSArray *')
+o+ (instancetype)arrayWithArray:(NSArray *)array;
+o^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m259"CompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/MobileDeviceAccess.o Source/MobileDeviceAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compileraa61fb1b7145b841^7e56f91c7145b841^-2453"/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m:1904:47: warning: data argument not used by format string [-Wformat-extra-args]                NSLog(@"-(void)%@: (id)notificationname;",s,s);                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   ^/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m:2070:10: warning: incompatible pointer types assigning to 'NSDictionary *' from 'NSArray *' [-Wincompatible-pointer-types]        message = [NSArray arrayWithObjects:                ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~In file included from /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m:8:In file included from /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.h:39:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h:89:1: note: class method 'arrayWithObjects:' is assumed to return an instance of its receiver type ('NSArray *')+ (instancetype)arrayWithObjects:(id)firstObj, ... NS_REQUIRES_NIL_TERMINATION;^/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m:2591:12: warning: incompatible pointer types assigning to 'NSMutableArray *' from 'NSArray *' [-Wincompatible-pointer-types]                                result = [NSArray arrayWithArray:result];                                       ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~In file included from /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m:8:In file included from /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.h:39:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:10:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h:90:1: note: class method 'arrayWithArray:' is assumed to return an instance of its receiver type ('NSArray *')+ (instancetype)arrayWithArray:(NSArray *)array;^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@39"Data argument not used by format string-407204124#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@87"file:///Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m0000000000000000^1903#46#1903#46#58458#0#19"Format String Issue1(3@87"file:///Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m0000000000000000^1903#8#1903#43#58420#1#-2@73"Incompatible pointer types assigning to 'NSDictionary *' from 'NSArray *'-407204124#18446744073709551615#0#1(2@100"Class method 'arrayWithObjects:' is assumed to return an instance of its receiver type ('NSArray *')-407204124#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@170"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h0000000000000000^88#0#88#0#4351#0#25"Related Result Type Issue--1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m0000000000000000^2069#9#2069#9#63795#0#14"Semantic Issue1(3@87"file:///Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m0000000000000000^2069#11#2079#7#63797#298#-2@75"Incompatible pointer types assigning to 'NSMutableArray *' from 'NSArray *'-407204124#18446744073709551615#0#1(2@98"Class method 'arrayWithArray:' is assumed to return an instance of its receiver type ('NSArray *')-407204124#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@170"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h0000000000000000^89#0#89#0#4431#0#25"Related Result Type Issue--1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m0000000000000000^2590#11#2590#11#77031#0#14"Semantic Issue1(3@87"file:///Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m0000000000000000^2590#13#2590#44#77033#30#-0#0#1#-19%DVTDocumentLocation4@87"file:///Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m0000000000000000^3989"CompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/MobileDeviceAccess.o Source/MobileDeviceAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tyt_g207/Downloads/mobileDeviceManager-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-generated-files.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-own-target-headers.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-all-target-headers.hmap -iquote /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-project-headers.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/DerivedSources/x86_64 -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/DerivedSources -F/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug -include /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch -MMD -MT dependencies -MF /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/MobileDeviceAccess.d --serialize-diagnostics /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/MobileDeviceAccess.dia -c /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.m -o /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/MobileDeviceAccess.o36"9CE556FB-8B91-4806-B8FC-D38D67E1369D-
+b6F253861-DA95-45DA-AB42-F83A8BE42522
+
+CCompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/main.o /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407203590.268346
+e407203590.877205
+r1
+xCompileC
+xDerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/main.o
+x/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/main.m
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/DeviceAdapter.h
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/MobileDeviceAccess.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/main.m231"CompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/main.o Source/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler97ff44066f45b841^8e91e0066f45b841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/main.m0000000000000000^3905"CompileC DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/main.o Source/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tyt_g207/Downloads/mobileDeviceManager-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-generated-files.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-own-target-headers.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-all-target-headers.hmap -iquote /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-project-headers.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/DerivedSources/x86_64 -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/DerivedSources -F/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug -include /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch -MMD -MT dependencies -MF /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/main.dia -c /Users/tyt_g207/Downloads/mobileDeviceManager-master/Source/main.m -o /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/main.o36"63521264-D29E-40F8-9979-6C331A9B34A6-
+bE428E3D5-8262-4EE1-8261-A0F8E132AB7C
+
+CLd /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug/mobileDeviceManager normal x86_64
+s407204124.982937
+e407204125.222684
+r1
+xLd
+x/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug/mobileDeviceManager
+xnormal
+xx86_64
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/mobileDeviceManager.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/crt1.10.6.o
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/main.o
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/MobileDeviceAccess.o
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/DeviceAdapter.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug/mobileDeviceManager89"Ld DerivedData/mobileDeviceManager/Build/Products/Debug/mobileDeviceManager normal x86_64babafb1c7145b841^6902391d7145b841^---0#0#1#--1577"Ld DerivedData/mobileDeviceManager/Build/Products/Debug/mobileDeviceManager normal x86_64    cd /Users/tyt_g207/Downloads/mobileDeviceManager-master    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug -L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A -F/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug -filelist /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/mobileDeviceManager.LinkFileList -mmacosx-version-min=10.6 -fobjc-link-runtime -framework Cocoa -framework Foundation /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice -Xlinker -dependency_info -Xlinker /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/Objects-normal/x86_64/mobileDeviceManager_dependency_info.dat -o /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug/mobileDeviceManager36"5C33938C-E926-426A-8136-EFC3E3A291A5-
+b6F253861-DA95-45DA-AB42-F83A8BE42522
+
+CProcessPCH /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch.pch mobileDeviceManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407194404.783736
+e407194404.919077
+r1
+xProcessPCH
+x/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch.pch
+xmobileDeviceManager-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tyt_g207/Downloads/mobileDeviceManager-master/mobileDeviceManager-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile mobileDeviceManager-Prefix.pch273"ProcessPCH DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch.pch mobileDeviceManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3cbfc8244b45b841^994aeb244b45b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/tyt_g207/Downloads/mobileDeviceManager-master/mobileDeviceManager-Prefix.pch0000000000000000^3816"ProcessPCH DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch.pch mobileDeviceManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tyt_g207/Downloads/mobileDeviceManager-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-generated-files.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-own-target-headers.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-all-target-headers.hmap -iquote /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/mobileDeviceManager-project-headers.hmap -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/DerivedSources/x86_64 -I/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/mobileDeviceManager.build/Debug/mobileDeviceManager.build/DerivedSources -F/Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Products/Debug --serialize-diagnostics /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch.dia -MMD -MT dependencies -MF /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch.d -c /Users/tyt_g207/Downloads/mobileDeviceManager-master/mobileDeviceManager-Prefix.pch -o /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Build/Intermediates/PrecompiledHeaders/mobileDeviceManager-Prefix-azzmfdgoienxrmcrxozvysqnseca/mobileDeviceManager-Prefix.pch.pch36"1D7B8D62-203E-4D80-858F-24A3A0252870-
+bCC04F7CC-6925-4F9C-AC35-5679B301CF8F
+
+CProcessPCH /Users/tyt_g207/Downloads/mobileDeviceManager-master/DerivedData/mobileDeviceManager/Index/PrecompiledHeaders/mobileDeviceManager-Prefix-gmospoqoxfclcldgvmrchkvngovl_ast/mobileDeviceManager-Prefix.pch.pch mobileDeviceManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
