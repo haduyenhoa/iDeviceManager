@@ -9,7 +9,7 @@ http://theiphonewiki.com/wiki/MobileDevice_Library
 1. For MAC (MobileDevice.framework) is : 
  
 
-https://github.com/samdmarshall/SDMMobileDevice
+https://github.com/samdmarshall/SDMMobileDevice (http://samdmarshall.com/) : interesting !!!
 
 https://github.com/xslim/mobileDeviceManager
 
