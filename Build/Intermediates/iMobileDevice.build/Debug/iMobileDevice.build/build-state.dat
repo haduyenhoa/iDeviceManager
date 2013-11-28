@@ -1,0 +1,634 @@
+TiMobileDevice
+v6
+r1
+cCheck dependencies
+cDataModelVersionCompile /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld
+cProcessPCH /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-fmqszfnkxyinkwfefjtnofbyesbw/iMobileDevice-Prefix.pch.pch iMobileDevice/iMobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/MDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice normal x86_64
+cCopyStringsFile /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings iMobileDevice/en.lproj/InfoPlist.strings
+cCpResource iMobileDevice/en.lproj/Credits.rtf Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib
+cCompileAssetCatalog /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Images.xcassets
+cProcessInfoPlistFile /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist
+cTouch /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052947583000000000000044C
+t1385461123
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005294758300000000000001DB
+t1385461123
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c000000005294758300000000002682C8
+t1385461123
+s2523848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000529475830000000000007D5C
+t1385461123
+s32092
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c00000000529475830000000000020D64
+t1385461123
+s134500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c0000000052947583000000000001B3B8
+t1385461123
+s111544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c00000000529475830000000000034F94
+t1385461123
+s216980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c0000000052947583000000000000CB08
+t1385461123
+s51976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c0000000052947583000000000002C5F4
+t1385461123
+s181748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c0000000052947583000000000002B9A8
+t1385461123
+s178600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c00000000529475830000000000011EF8
+t1385461123
+s73464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000529475830000000000059898
+t1385461123
+s366744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052947583000000000000253C
+t1385461123
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000052947583000000000004C7C4
+t1385461123
+s313284
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000529475830000000000085C78
+t1385461123
+s547960
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052947583000000000008B2C4
+t1385461123
+s570052
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c0000000052947583000000000000979C
+t1385461123
+s38812
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c000000005294758300000000000223B4
+t1385461123
+s140212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c00000000529475830000000000071A98
+t1385461123
+s465560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c00000000529475830000000000017E1C
+t1385461123
+s97820
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c0000000052947583000000000004F094
+t1385461123
+s323732
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c0000000052947583000000000003AA44
+t1385461123
+s240196
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c000000005294758300000000000383CC
+t1385461123
+s230348
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c0000000052947583000000000001B66C
+t1385461123
+s112236
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000529475830000000000030444
+t1385461123
+s197700
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005294758400000000000C9E68
+t1385461124
+s826984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c000000005294758400000000000394F8
+t1385461124
+s234744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c0000000052947587000000000000681C
+t1385461127
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+c00000000529475870000000000014EF8
+t1385461127
+s85752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000529475870000000000004734
+t1385461127
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052947587000000000000FC6C
+t1385461127
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052947587000000000000F6A0
+t1385461127
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000529475870000000000006254
+t1385461127
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000052947587000000000000E0F8
+t1385461127
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c0000000052947587000000000000D6DC
+t1385461127
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000529475870000000000006308
+t1385461127
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000529475870000000000004050
+t1385461127
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000529475870000000000008570
+t1385461127
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000529475870000000000005EA0
+t1385461127
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000529475870000000000005FAC
+t1385461127
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000529475870000000000004440
+t1385461127
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000052947587000000000000AA28
+t1385461127
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000529475870000000000003E2C
+t1385461127
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000529475870000000000030A24
+t1385461127
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000529475870000000000005E54
+t1385461127
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000529475870000000000006A90
+t1385461127
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c000000005294758700000000000178AC
+t1385461127
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c0000000052947587000000000001ADC8
+t1385461127
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052947587000000000001028C
+t1385461127
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000529475870000000000008800
+t1385461127
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000529475870000000000011090
+t1385461127
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000052947587000000000000882C
+t1385461127
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c000000005294758700000000000067AC
+t1385461127
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000529475870000000000008DEC
+t1385461127
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000529475870000000000004C08
+t1385461127
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c000000005294758700000000000023C0
+t1385461127
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c0000000052947587000000000000439C
+t1385461127
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000529475870000000000006768
+t1385461127
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c000000005294758700000000000172F4
+t1385461127
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c000000005294758D0000000000001750
+t1385461133
+s5968
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-fmqszfnkxyinkwfefjtnofbyesbw/iMobileDevice-Prefix.pch.pch
+t1385655303
+s13705704
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o
+t1385655303
+s63676
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/iMobileDevice.LinkFileList
+c0000000052976C05000000000000013F
+t1385655301
+s319
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o
+t1385655303
+s2912
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_dependencies.txt
+t1385655303
+s304
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_generated_info.plist
+t1385655303
+s181
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app
+t1385655303
+s102
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist
+t1385655303
+s1452
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice
+t1385655303
+s26564
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/PkgInfo
+t1385655303
+s8
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1385656307
+s37854
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf
+t1385655303
+s436
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1385655303
+s92
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd
+t1385655302
+s170
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib
+c0000000052976FF2000000000000C14A
+t1385656306
+s49482
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Images.xcassets
+c0000000052976B200000000000000066
+t1385655072
+s102
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/MDAppDelegate.h
+c0000000052976B20000000000000024E
+t1385655072
+s590
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/MDAppDelegate.m
+c0000000052976B200000000000001DA4
+t1385655072
+s7588
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/en.lproj/Credits.rtf
+c0000000052976B2000000000000001B4
+t1385655072
+s436
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/en.lproj/InfoPlist.strings
+c0000000052976B20000000000000002D
+t1385655072
+s45
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist
+c0000000052976B200000000000000461
+t1385655072
+s1121
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Prefix.pch
+c0000000052976B2000000000000000AC
+t1385655072
+s172
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld
+c0000000052976B200000000000000088
+t1385655072
+s136
+
+N/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/main.m
+c0000000052976B2000000000000000FB
+t1385655072
+s251
+
+CBuild AST from /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/MDAppDelegate.m
+r0
+
+CBuild AST from /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3a3ffd72a747b841^af3efe72a747b841^---0#1#1#--18"Check dependencies36"0A1BDD58-10A7-4E6F-BEF9-2FF5AD2F25B0-
+
+CCompileAssetCatalog /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Images.xcassets
+s407348103.237904
+e407348103.646510
+r1
+xCompileAssetCatalog
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/Assets.car
+o/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"CompileAssetCatalog Build/Products/Debug/iMobileDevice.app/Contents/Resources iMobileDevice/Images.xcassets107"CompileAssetCatalog Build/Products/Debug/iMobileDevice.app/Contents/Resources iMobileDevice/Images.xcassets8cf63c87a347b841^ba82a587a347b841^-333"/* com.apple.actool.compilation-results *//Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/Assets.car/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@97"file:///Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Images.xcassets/0000000000000000^971"CompileAssetCatalog Build/Products/Debug/iMobileDevice.app/Contents/Resources iMobileDevice/Images.xcassets    cd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_dependencies.txt --output-partial-info-plist /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Images.xcassets36"592B5C84-0CF7-4294-9652-2FD95674C593-
+bA3EE1EEC-AF49-43DF-8B75-1E98E089912C
+
+CCompileC Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/MDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407348103.090259
+e407348103.201026
+r1
+xCompileC
+xBuild/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/MDAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/MDAppDelegate.m
+d/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/MDAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/MDAppDelegate.m212"CompileC Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o iMobileDevice/MDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a2e1787a347b841^d5763387a347b841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/MDAppDelegate.m0000000000000000^3568"CompileC Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o iMobileDevice/MDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-generated-files.hmap -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-own-target-headers.hmap -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-all-target-headers.hmap -iquote /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-project-headers.hmap -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources/x86_64 -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources -F/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug -include /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-fmqszfnkxyinkwfefjtnofbyesbw/iMobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.d --serialize-diagnostics /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.dia -c /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/MDAppDelegate.m -o /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o36"154040E4-BF81-4D45-86DE-1B896C9E0FA7-
+bA3EE1EEC-AF49-43DF-8B75-1E98E089912C
+
+CCompileC Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407348103.090054
+e407348103.154455
+r1
+xCompileC
+xBuild/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/main.m194"CompileC Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o iMobileDevice/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf7211787a347b841^378b2787a347b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/main.m0000000000000000^3514"CompileC Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o iMobileDevice/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-generated-files.hmap -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-own-target-headers.hmap -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-all-target-headers.hmap -iquote /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-project-headers.hmap -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources/x86_64 -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources -F/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug -include /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-fmqszfnkxyinkwfefjtnofbyesbw/iMobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.dia -c /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/main.m -o /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o36"B5081A9B-3FEC-4E24-A40E-24E74AE140C2-
+bA3EE1EEC-AF49-43DF-8B75-1E98E089912C
+
+CCompileXIB /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib
+s407349106.996098
+e407349107.120001
+r1
+xCompileXIB
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib:371: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compiling /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib48"CompileXIB iMobileDevice/Base.lproj/MainMenu.xiba31dff72a747b841^23bb1e73a747b841^-290"/* com.apple.ibtool.document.warnings *//Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib:371: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)1(21%IDEActivityLogMessage2@136"Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)58"Content rectangle not entirely on screen with the menu bar407349107#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@104"file:///Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib0000000000000000^370#18446744073709551615#370#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@104"file:///Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib0000000000000000^617"CompileXIB iMobileDevice/Base.lproj/MainMenu.xib    cd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/Base.lproj/MainMenu.nib /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib36"F9C9A6E6-C2EA-4F5A-9B2B-8E0715D97E6A-
+b717FF7B3-016D-4ADC-846D-681505DA8B47
+
+CCopyStringsFile /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings iMobileDevice/en.lproj/InfoPlist.strings
+s407348103.237245
+e407348103.238738
+r1
+xCopyStringsFile
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings
+xiMobileDevice/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy iMobileDevice/en.lproj/InfoPlist.strings141"CopyStringsFile Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings iMobileDevice/en.lproj/InfoPlist.strings7ec73c87a347b841^e61f3d87a347b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/en.lproj/InfoPlist.strings0000000000000000^470"CopyStringsFile Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings iMobileDevice/en.lproj/InfoPlist.strings    cd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj -- iMobileDevice/en.lproj/InfoPlist.strings36"FE9186FD-958E-433E-B979-5588F4B298DA-
+bA3EE1EEC-AF49-43DF-8B75-1E98E089912C
+
+CCpResource iMobileDevice/en.lproj/Credits.rtf Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf
+s407348103.237397
+e407348103.238742
+r1
+xCpResource
+xiMobileDevice/en.lproj/Credits.rtf
+xBuild/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf124"CpResource iMobileDevice/en.lproj/Credits.rtf Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf7cd33c87a347b841^03253d87a347b841^---0#0#1#-19%DVTDocumentLocation2@145"file:///Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf003454d2dcffdf42^526"CpResource iMobileDevice/en.lproj/Credits.rtf Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf    cd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/en.lproj/Credits.rtf /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj36"25E50593-AB49-48A9-95CB-56A0B5416853-
+bA3EE1EEC-AF49-43DF-8B75-1E98E089912C
+
+CDataModelVersionCompile /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld
+s407348101.899957
+e407348102.008495
+r1
+xDataModelVersionCompile
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"DataModelVersionCompile Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd iMobileDevice/iMobileDevice.xcdatamodeld141"DataModelVersionCompile Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd iMobileDevice/iMobileDevice.xcdatamodeld6a6de685a347b841^b5fc0886a347b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld/0000000000000000^675"DataModelVersionCompile Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd iMobileDevice/iMobileDevice.xcdatamodeld    cd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager    /Applications/Xcode.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -MOMC_PLATFORMS macosx -XD_MOMC_TARGET_VERSION=10.9 /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd36"8A075B5C-C975-4FCA-BEEB-BDB6F3823B66-
+bA3EE1EEC-AF49-43DF-8B75-1E98E089912C
+
+CLd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice normal x86_64
+s407348103.201724
+e407348103.236620
+r1
+xLd
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice
+xnormal
+xx86_64
+d/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/iMobileDevice.LinkFileList
+d/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o
+d/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+old: warning: directory not found for option '-L/MY WORKS/iOS/Projects/MacMobileDevice/iMobileDevice'
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice84"Ld Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice normal x86_64f7b03387a347b841^9b923c87a347b841^-101"ld: warning: directory not found for option '-L/MY WORKS/iOS/Projects/MacMobileDevice/iMobileDevice'1(21%IDEActivityLogMessage2@87"Directory not found for option '-L/MY WORKS/iOS/Projects/MacMobileDevice/iMobileDevice'-407348103#0#101#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#1#--1241"Ld Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice normal x86_64    cd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug -L/MY\ WORKS/iOS/Projects/MacMobileDevice/iMobileDevice -F/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug -filelist /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/iMobileDevice.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/iMobileDevice_dependency_info.dat -o /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice36"67229280-E0C5-47DB-AF06-FDDD586922C4-
+bA3EE1EEC-AF49-43DF-8B75-1E98E089912C
+
+CProcessInfoPlistFile /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist
+s407348103.647099
+e407348103.648650
+r1
+xProcessInfoPlistFile
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Process /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist118"ProcessInfoPlistFile Build/Products/Debug/iMobileDevice.app/Contents/Info.plist iMobileDevice/iMobileDevice-Info.plistc4b2a587a347b841^c70ea687a347b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist0000000000000000^785"ProcessInfoPlistFile Build/Products/Debug/iMobileDevice.app/Contents/Info.plist iMobileDevice/iMobileDevice-Info.plist    cd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager    builtin-infoPlistUtility /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist -genpkginfo /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_generated_info.plist -o /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist36"A4BF7216-8682-4670-986F-C2337FE1F3AF-
+bA3EE1EEC-AF49-43DF-8B75-1E98E089912C
+
+CProcessPCH /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-fmqszfnkxyinkwfefjtnofbyesbw/iMobileDevice-Prefix.pch.pch iMobileDevice/iMobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407348101.900230
+e407348103.089368
+r1
+xProcessPCH
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-fmqszfnkxyinkwfefjtnofbyesbw/iMobileDevice-Prefix.pch.pch
+xiMobileDevice/iMobileDevice-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile iMobileDevice/iMobileDevice-Prefix.pch237"ProcessPCH Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-fmqszfnkxyinkwfefjtnofbyesbw/iMobileDevice-Prefix.pch.pch iMobileDevice/iMobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5585e685a347b841^61e31687a347b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Prefix.pch0000000000000000^3464"ProcessPCH Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-fmqszfnkxyinkwfefjtnofbyesbw/iMobileDevice-Prefix.pch.pch iMobileDevice/iMobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-generated-files.hmap -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-own-target-headers.hmap -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-all-target-headers.hmap -iquote /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-project-headers.hmap -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources/x86_64 -I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources -F/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug --serialize-diagnostics /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-fmqszfnkxyinkwfefjtnofbyesbw/iMobileDevice-Prefix.pch.dia -MMD -MT dependencies -MF /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-fmqszfnkxyinkwfefjtnofbyesbw/iMobileDevice-Prefix.pch.d -c /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Prefix.pch -o /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-fmqszfnkxyinkwfefjtnofbyesbw/iMobileDevice-Prefix.pch.pch36"6DBBB3C4-C872-4483-B908-5DA1E627EF45-
+bA3EE1EEC-AF49-43DF-8B75-1E98E089912C
+
+CProcessPCH /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/DerivedData/iMobileDevice/Index/PrecompiledHeaders/iMobileDevice-Prefix-ceoxlkytecwacsgxgzlrtyjvglcf_ast/iMobileDevice-Prefix.pch.pch iMobileDevice/iMobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app
+s407349107.120725
+e407349107.126194
+r1
+xTouch
+x/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Touch /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app44"Touch Build/Products/Debug/iMobileDevice.app1ff21e73a747b841^c64e2073a747b841^---0#0#1#--233"Touch Build/Products/Debug/iMobileDevice.app    cd /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager    /usr/bin/touch -c /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/iMobileDevice.app36"03876565-D206-4A41-8095-A39B19B73213-
+b717FF7B3-016D-4ADC-846D-681505DA8B47
+

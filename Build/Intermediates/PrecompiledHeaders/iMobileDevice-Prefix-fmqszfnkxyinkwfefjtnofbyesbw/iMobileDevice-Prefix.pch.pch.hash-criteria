@@ -1,0 +1,24 @@
+Contents of /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/iMobileDevice/iMobileDevice-Prefix.pch
+-x
+objective-c
+-arch
+x86_64
+-std=gnu99
+-fobjc-arc
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+-fasm-blocks
+-mmacosx-version-min=10.9
+-g
+-iquote
+-iquote
+-I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/Build/Products/Debug
+x86_64-apple-darwin13.0.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)"
+SDK_PRODUCT_BUILD_VERSION=13A595
+13A595

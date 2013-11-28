@@ -19,9 +19,6 @@
 		ED288E1218443728004A0DBB /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED288DEE18443728004A0DBB /* Cocoa.framework */; };
 		ED288E1A18443728004A0DBB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = ED288E1818443728004A0DBB /* InfoPlist.strings */; };
 		ED288E1C18443728004A0DBB /* iMobileDeviceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = ED288E1B18443728004A0DBB /* iMobileDeviceTests.m */; };
-		ED288E2618443740004A0DBB /* ideviceinfo.c in Sources */ = {isa = PBXBuildFile; fileRef = ED288E2518443740004A0DBB /* ideviceinfo.c */; };
-		ED288E4A18443762004A0DBB /* libimobiledevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ED288E4918443762004A0DBB /* libimobiledevice.a */; };
-		ED288E4C18443789004A0DBB /* libimobiledevice.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = ED288E4B18443789004A0DBB /* libimobiledevice.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,39 +52,6 @@
 		ED288E1718443728004A0DBB /* iMobileDeviceTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iMobileDeviceTests-Info.plist"; sourceTree = "<group>"; };
 		ED288E1918443728004A0DBB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		ED288E1B18443728004A0DBB /* iMobileDeviceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iMobileDeviceTests.m; sourceTree = "<group>"; };
-		ED288E2518443740004A0DBB /* ideviceinfo.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ideviceinfo.c; sourceTree = "<group>"; };
-		ED288E2918443759004A0DBB /* afc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = afc.h; sourceTree = "<group>"; };
-		ED288E2A18443759004A0DBB /* file_relay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = file_relay.h; sourceTree = "<group>"; };
-		ED288E2B18443759004A0DBB /* house_arrest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = house_arrest.h; sourceTree = "<group>"; };
-		ED288E2C18443759004A0DBB /* installation_proxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = installation_proxy.h; sourceTree = "<group>"; };
-		ED288E2D18443759004A0DBB /* libimobiledevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = libimobiledevice.h; sourceTree = "<group>"; };
-		ED288E2E18443759004A0DBB /* lockdown.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = lockdown.h; sourceTree = "<group>"; };
-		ED288E2F18443759004A0DBB /* mobile_image_mounter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mobile_image_mounter.h; sourceTree = "<group>"; };
-		ED288E3018443759004A0DBB /* mobilebackup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mobilebackup.h; sourceTree = "<group>"; };
-		ED288E3118443759004A0DBB /* mobilebackup2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mobilebackup2.h; sourceTree = "<group>"; };
-		ED288E3218443759004A0DBB /* mobilesync.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mobilesync.h; sourceTree = "<group>"; };
-		ED288E3318443759004A0DBB /* notification_proxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = notification_proxy.h; sourceTree = "<group>"; };
-		ED288E3418443759004A0DBB /* restore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = restore.h; sourceTree = "<group>"; };
-		ED288E3518443759004A0DBB /* sbservices.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sbservices.h; sourceTree = "<group>"; };
-		ED288E3618443759004A0DBB /* screenshotr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = screenshotr.h; sourceTree = "<group>"; };
-		ED288E3818443759004A0DBB /* libusb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = libusb.h; sourceTree = "<group>"; };
-		ED288E3A18443759004A0DBB /* Array.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Array.h; sourceTree = "<group>"; };
-		ED288E3B18443759004A0DBB /* Boolean.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Boolean.h; sourceTree = "<group>"; };
-		ED288E3C18443759004A0DBB /* Data.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Data.h; sourceTree = "<group>"; };
-		ED288E3D18443759004A0DBB /* Date.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Date.h; sourceTree = "<group>"; };
-		ED288E3E18443759004A0DBB /* Dictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Dictionary.h; sourceTree = "<group>"; };
-		ED288E3F18443759004A0DBB /* Integer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Integer.h; sourceTree = "<group>"; };
-		ED288E4018443759004A0DBB /* Node.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Node.h; sourceTree = "<group>"; };
-		ED288E4118443759004A0DBB /* plist++.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "plist++.h"; sourceTree = "<group>"; };
-		ED288E4218443759004A0DBB /* plist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = plist.h; sourceTree = "<group>"; };
-		ED288E4318443759004A0DBB /* Real.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Real.h; sourceTree = "<group>"; };
-		ED288E4418443759004A0DBB /* String.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = String.h; sourceTree = "<group>"; };
-		ED288E4518443759004A0DBB /* Structure.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Structure.h; sourceTree = "<group>"; };
-		ED288E4618443759004A0DBB /* usbmuxd-proto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "usbmuxd-proto.h"; sourceTree = "<group>"; };
-		ED288E4718443759004A0DBB /* usbmuxd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = usbmuxd.h; sourceTree = "<group>"; };
-		ED288E4818443759004A0DBB /* zip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zip.h; sourceTree = "<group>"; };
-		ED288E4918443762004A0DBB /* libimobiledevice.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libimobiledevice.a; sourceTree = "<group>"; };
-		ED288E4B18443789004A0DBB /* libimobiledevice.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libimobiledevice.dylib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,8 +60,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED288DEF18443728004A0DBB /* Cocoa.framework in Frameworks */,
-				ED288E4C18443789004A0DBB /* libimobiledevice.dylib in Frameworks */,
-				ED288E4A18443762004A0DBB /* libimobiledevice.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -116,9 +78,6 @@
 		ED288DE218443728004A0DBB = {
 			isa = PBXGroup;
 			children = (
-				ED288E4B18443789004A0DBB /* libimobiledevice.dylib */,
-				ED288E4918443762004A0DBB /* libimobiledevice.a */,
-				ED288E2718443759004A0DBB /* include */,
 				ED288DF418443728004A0DBB /* iMobileDevice */,
 				ED288E1518443728004A0DBB /* iMobileDeviceTests */,
 				ED288DED18443728004A0DBB /* Frameworks */,
@@ -164,7 +123,6 @@
 				ED288E0918443728004A0DBB /* Images.xcassets */,
 				ED288E0618443728004A0DBB /* iMobileDevice.xcdatamodeld */,
 				ED288DF518443728004A0DBB /* Supporting Files */,
-				ED288E2518443740004A0DBB /* ideviceinfo.c */,
 			);
 			path = iMobileDevice;
 			sourceTree = "<group>";
@@ -197,67 +155,6 @@
 				ED288E1818443728004A0DBB /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		ED288E2718443759004A0DBB /* include */ = {
-			isa = PBXGroup;
-			children = (
-				ED288E2818443759004A0DBB /* libimobiledevice */,
-				ED288E3718443759004A0DBB /* libusb-1.0 */,
-				ED288E3918443759004A0DBB /* plist */,
-				ED288E4618443759004A0DBB /* usbmuxd-proto.h */,
-				ED288E4718443759004A0DBB /* usbmuxd.h */,
-				ED288E4818443759004A0DBB /* zip.h */,
-			);
-			path = include;
-			sourceTree = "<group>";
-		};
-		ED288E2818443759004A0DBB /* libimobiledevice */ = {
-			isa = PBXGroup;
-			children = (
-				ED288E2918443759004A0DBB /* afc.h */,
-				ED288E2A18443759004A0DBB /* file_relay.h */,
-				ED288E2B18443759004A0DBB /* house_arrest.h */,
-				ED288E2C18443759004A0DBB /* installation_proxy.h */,
-				ED288E2D18443759004A0DBB /* libimobiledevice.h */,
-				ED288E2E18443759004A0DBB /* lockdown.h */,
-				ED288E2F18443759004A0DBB /* mobile_image_mounter.h */,
-				ED288E3018443759004A0DBB /* mobilebackup.h */,
-				ED288E3118443759004A0DBB /* mobilebackup2.h */,
-				ED288E3218443759004A0DBB /* mobilesync.h */,
-				ED288E3318443759004A0DBB /* notification_proxy.h */,
-				ED288E3418443759004A0DBB /* restore.h */,
-				ED288E3518443759004A0DBB /* sbservices.h */,
-				ED288E3618443759004A0DBB /* screenshotr.h */,
-			);
-			path = libimobiledevice;
-			sourceTree = "<group>";
-		};
-		ED288E3718443759004A0DBB /* libusb-1.0 */ = {
-			isa = PBXGroup;
-			children = (
-				ED288E3818443759004A0DBB /* libusb.h */,
-			);
-			path = "libusb-1.0";
-			sourceTree = "<group>";
-		};
-		ED288E3918443759004A0DBB /* plist */ = {
-			isa = PBXGroup;
-			children = (
-				ED288E3A18443759004A0DBB /* Array.h */,
-				ED288E3B18443759004A0DBB /* Boolean.h */,
-				ED288E3C18443759004A0DBB /* Data.h */,
-				ED288E3D18443759004A0DBB /* Date.h */,
-				ED288E3E18443759004A0DBB /* Dictionary.h */,
-				ED288E3F18443759004A0DBB /* Integer.h */,
-				ED288E4018443759004A0DBB /* Node.h */,
-				ED288E4118443759004A0DBB /* plist++.h */,
-				ED288E4218443759004A0DBB /* plist.h */,
-				ED288E4318443759004A0DBB /* Real.h */,
-				ED288E4418443759004A0DBB /* String.h */,
-				ED288E4518443759004A0DBB /* Structure.h */,
-			);
-			path = plist;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -362,7 +259,6 @@
 				ED288E0818443728004A0DBB /* iMobileDevice.xcdatamodeld in Sources */,
 				ED288DFB18443728004A0DBB /* main.m in Sources */,
 				ED288E0218443728004A0DBB /* MDAppDelegate.m in Sources */,
-				ED288E2618443740004A0DBB /* ideviceinfo.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -581,6 +477,7 @@
 				ED288E2118443728004A0DBB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ED288E2218443728004A0DBB /* Build configuration list for PBXNativeTarget "iMobileDeviceTests" */ = {
 			isa = XCConfigurationList;
@@ -589,6 +486,7 @@
 				ED288E2418443728004A0DBB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
