@@ -1,8 +1,10 @@
 simple_afc
 ==========
 
-Ref:
+Ref: http://theiphonewiki.com/wiki/MobileDevice_Library
 
+
+1. For MAC (MobileDevice.framework) is : 
 
 https://github.com/xslim/mobileDeviceManager
 
@@ -16,6 +18,6 @@ http://2013.hackitoergosum.org/
 
 
 
-Ref for PC: (using iTunesMobileDevice.dll)
+2. For PC: (using iTunesMobileDevice.dll)
 
 https://github.com/ipfans/Manzana
