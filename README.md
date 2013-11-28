@@ -1,10 +1,15 @@
 simple_afc
 ==========
 
-Ref: http://theiphonewiki.com/wiki/MobileDevice_Library
+Ref: 
+
+http://theiphonewiki.com/wiki/MobileDevice_Library
 
 
 1. For MAC (MobileDevice.framework) is : 
+ 
+
+https://github.com/samdmarshall/SDMMobileDevice
 
 https://github.com/xslim/mobileDeviceManager
 
