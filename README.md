@@ -26,3 +26,6 @@ http://2013.hackitoergosum.org/
 2. For PC: (using iTunesMobileDevice.dll)
 
 https://github.com/ipfans/Manzana
+
+3. Mac Dev demo
+https://github.com/Perspx/PXSourceList
