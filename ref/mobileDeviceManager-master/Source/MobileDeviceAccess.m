@@ -1901,7 +1901,7 @@ void AMNotificationProxy_callback(CFStringRef notification, void* data)
 		NSString *s = NSStringFromSelector(notificationSelector);
 		NSLog(@"%@.%@ defined incorrectly for AMNotificationCenter.addObserver:selector:name:",c,s);
 		NSLog(@"It should be:");
-		NSLog(@"-(void)%@: (id)notificationname;",s,s);
+		NSLog(@"-(void)%@: (id)notificationname;",s);
 		return;
 	}
 

@@ -1,0 +1,29 @@
+Contents of /Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/ref/mobileDeviceManager-master/mobileDeviceManager-Prefix.pch
+-x
+objective-c
+-arch
+x86_64
+-fretain-comments-from-system-headers
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+-fasm-blocks
+-mmacosx-version-min=10.6
+-g
+-fvisibility=hidden
+-iquote
+-iquote
+-I/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/ref/mobileDeviceManager-master/Build/Products/Debug/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/ref/mobileDeviceManager-master/Build/Products/Debug
+-ferror-limit=10
+-working-directory=/Volumes/MY_DATA/PERSONNEL/MY_RESEARCHS/iOS7/iDeviceManager/ref/mobileDeviceManager-master
+-Xclang
+-detailed-preprocessing-record
+x86_64-apple-darwin13.0.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)"
+SDK_PRODUCT_BUILD_VERSION=13A595
+13A595
