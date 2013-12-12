@@ -1,0 +1,411 @@
+TiMobileDevice
+v6
+r1
+cCheck dependencies
+cDataModelVersionCompile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld
+cProcessPCH /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch.pch iMobileDevice/iMobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/PXSourceList.o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceList.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/MDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice normal x86_64
+cCopyStringsFile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings iMobileDevice/en.lproj/InfoPlist.strings
+cCpResource iMobileDevice/en.lproj/Credits.rtf DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib
+cCompileAssetCatalog /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Images.xcassets
+cProcessInfoPlistFile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist
+cTouch /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005283DD3800000000000000AA
+t1384373560
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052676DCD000000000000044C
+t1382510029
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052676DCD00000000000001DB
+t1382510029
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052676DCD000000000000253C
+t1382510029
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052676DCE00000000000C9E68
+t1382510030
+s826984
+
+N/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice
+c00000000529517C7000000000028ED30
+t1385502663
+s2682160
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceList.m
+c00000000529E784D0000000000007B52
+t1386117197
+s31570
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch.pch
+t1386117328
+s13706376
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o
+t1386117328
+s95468
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/PXSourceList.o
+t1386117328
+s144520
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/iMobileDevice.LinkFileList
+c00000000529E78D00000000000000203
+t1386117328
+s515
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o
+t1386117328
+s2864
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_dependencies.txt
+t1386117331
+s326
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_generated_info.plist
+t1386117331
+s181
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app
+t1386117328
+s102
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist
+t1386117331
+s1452
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice
+t1386117328
+s215368
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/PkgInfo
+t1386117331
+s8
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1386117329
+s39414
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf
+t1386117328
+s436
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1386117328
+s92
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd
+t1386117328
+s170
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib
+c00000000529E77B1000000000000C7C3
+t1386117041
+s51139
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Images.xcassets
+c000000005293FFA80000000000000066
+t1385430952
+s102
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/MDAppDelegate.m
+c00000000529933260000000000002165
+t1385771814
+s8549
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/en.lproj/Credits.rtf
+c000000005293FFA800000000000001B4
+t1385430952
+s436
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/en.lproj/InfoPlist.strings
+c000000005293FFA8000000000000002D
+t1385430952
+s45
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist
+c000000005293FFA80000000000000461
+t1385430952
+s1121
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice-Prefix.pch
+c000000005293FFA800000000000000AC
+t1385430952
+s172
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld
+c000000005293FFA80000000000000088
+t1385430952
+s136
+
+N/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/main.m
+c000000005293FFA800000000000000FB
+t1385430952
+s251
+
+N/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/libMobileDevice.a
+c000000005299337F000000000005A608
+t1385771903
+s370184
+
+CBuild AST from /Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceList.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/MDAppDelegate.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesff40f94fb04eb841^01890650b04eb841^---0#1#1#--18"Check dependencies36"8D69C920-B848-4637-A004-A94E817ED37E-
+
+CCompileAssetCatalog /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Images.xcassets
+s407810128.980986
+e407810131.199647
+r1
+xCompileAssetCatalog
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/Assets.car
+o/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"CompileAssetCatalog DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources iMobileDevice/Images.xcassets133"CompileAssetCatalog DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources iMobileDevice/Images.xcassets7633fb50b04eb841^c91c3353b04eb841^-355"/* com.apple.actool.compilation-results *//Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/Assets.car/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@82"file:///Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Images.xcassets/0000000000000000^1000"CompileAssetCatalog DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources iMobileDevice/Images.xcassets    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_dependencies.txt --output-partial-info-plist /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Images.xcassets36"D86926BA-F98B-4E2E-A93C-5FA8BEEC6374-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+
+CCompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/MDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407810128.783048
+e407810128.899971
+r1
+xCompileC
+xDerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/MDAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/MDAppDelegate.m
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/MDAppDelegate.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/DeviceAdapter.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/MobileDeviceAccess.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/BaseObject.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMDevice.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMSpringboardServices.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMService.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCGeneralDirectory.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCFileReference.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCMediaDirectory.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCApplicationDirectory.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCCrashLogDirectory.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCRootDirectory.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMNotificationProxy.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMInstallationProxy.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMFileRelay.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMSyslogRelay.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMMobileSync.h
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMApplication.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/MDAppDelegate.m238"CompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o iMobileDevice/MDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd498c850b04eb841^3865e650b04eb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/MDAppDelegate.m0000000000000000^4022"CompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o iMobileDevice/MDAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.dia -c /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/MDAppDelegate.m -o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o36"5B1E3F24-81CB-4449-A21E-995A60612AD4-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+
+CCompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/PXSourceList.o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceList.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407810128.782558
+e407810128.924274
+r1
+xCompileC
+xDerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/PXSourceList.o
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceList.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceList.m
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceList.h
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceListDelegate.h
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceListDataSource.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceList.m244"CompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/PXSourceList.o 3rdCodes/PXSourceList/PXSourceList.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler857cc850b04eb841^7c9dec50b04eb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceList.m0000000000000000^4032"CompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/PXSourceList.o 3rdCodes/PXSourceList/PXSourceList.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/PXSourceList.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/PXSourceList.dia -c /Volumes/DATA/MY_WORKS/Github/iDeviceManager/3rdCodes/PXSourceList/PXSourceList.m -o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/PXSourceList.o36"B0C0AB1E-A289-4797-9F9C-54A33FF7577D-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+
+CCompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407810128.782273
+e407810128.811449
+r1
+xCompileC
+xDerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/main.m220"CompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o iMobileDevice/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8868c850b04eb841^2afecf50b04eb841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/main.m0000000000000000^3968"CompileC DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o iMobileDevice/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.dia -c /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/main.m -o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o36"AC2934AE-C0E3-4604-B43F-788AED93DD06-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+
+CCompileXIB /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib
+s407810128.979810
+e407810129.170418
+r1
+xCompileXIB
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib:371: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compiling /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib48"CompileXIB iMobileDevice/Base.lproj/MainMenu.xibd6e3fa50b04eb841^ba4c5551b04eb841^-275"/* com.apple.ibtool.document.warnings *//Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib:371: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)1(21%IDEActivityLogMessage2@136"Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)58"Content rectangle not entirely on screen with the menu bar407810129#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@89"file:///Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib0000000000000000^370#18446744073709551615#370#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@89"file:///Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib0000000000000000^598"CompileXIB iMobileDevice/Base.lproj/MainMenu.xib    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/Base.lproj/MainMenu.nib /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/Base.lproj/MainMenu.xib36"0B9EBDF9-FD01-4F5E-BF99-20548295722E-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+
+CCopyStringsFile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings iMobileDevice/en.lproj/InfoPlist.strings
+s407810128.979430
+e407810128.983144
+r1
+xCopyStringsFile
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings
+xiMobileDevice/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy iMobileDevice/en.lproj/InfoPlist.strings167"CopyStringsFile DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings iMobileDevice/en.lproj/InfoPlist.strings39d1fa50b04eb841^ebc6fb50b04eb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/en.lproj/InfoPlist.strings0000000000000000^492"CopyStringsFile DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/InfoPlist.strings iMobileDevice/en.lproj/InfoPlist.strings    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj -- iMobileDevice/en.lproj/InfoPlist.strings36"EE559EA9-6E08-4358-B964-6D1698E60160-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+
+CCpResource iMobileDevice/en.lproj/Credits.rtf DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf
+s407810128.979560
+e407810128.982919
+r1
+xCpResource
+xiMobileDevice/en.lproj/Credits.rtf
+xDerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf150"CpResource iMobileDevice/en.lproj/Credits.rtf DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf17d5fa50b04eb841^6ec0fb50b04eb841^---0#0#1#-19%DVTDocumentLocation2@156"file:///Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf00340c72ddffdf42^533"CpResource iMobileDevice/en.lproj/Credits.rtf DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj/Credits.rtf    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/en.lproj/Credits.rtf /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/en.lproj36"868994F0-5316-49A8-85F2-00CDD531B882-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+
+CDataModelVersionCompile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld
+s407810128.026521
+e407810128.112246
+r1
+xDataModelVersionCompile
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"DataModelVersionCompile DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd iMobileDevice/iMobileDevice.xcdatamodeld167"DataModelVersionCompile DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd iMobileDevice/iMobileDevice.xcdatamodelddcda0650b04eb841^55bd1c50b04eb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld/0000000000000000^682"DataModelVersionCompile DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd iMobileDevice/iMobileDevice.xcdatamodeld    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    /Applications/Xcode.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -MOMC_PLATFORMS macosx -XD_MOMC_TARGET_VERSION=10.9 /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice.xcdatamodeld /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Resources/iMobileDevice.momd36"45EA8EBD-A67D-4825-B779-41CA8466B594-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+
+CLd /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice normal x86_64
+s407810128.925092
+e407810128.978479
+r1
+xLd
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice
+xnormal
+xx86_64
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/iMobileDevice.LinkFileList
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/main.o
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/PXSourceList.o
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/MDAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Volumes/DATA/MY_WORKS/Github/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/libMobileDevice.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Link /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice110"Ld DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice normal x86_643fe1ec50b04eb841^e97efa50b04eb841^---0#0#1#--1604"Ld DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice normal x86_64    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug -L../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A -F/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug -filelist /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/iMobileDevice.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice -framework Foundation -framework Cocoa -lMobileDevice -Xlinker -dependency_info -Xlinker /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/Objects-normal/x86_64/iMobileDevice_dependency_info.dat -o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/MacOS/iMobileDevice36"1025C603-9852-46EE-A1EA-153201AABB09-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+
+CProcessInfoPlistFile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist
+s407810131.200456
+e407810131.203535
+r1
+xProcessInfoPlistFile
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Process /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist144"ProcessInfoPlistFile DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist iMobileDevice/iMobileDevice-Info.plist23653353b04eb841^91283453b04eb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist0000000000000000^814"ProcessInfoPlistFile DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist iMobileDevice/iMobileDevice-Info.plist    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    builtin-infoPlistUtility /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice-Info.plist -genpkginfo /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/assetcatalog_generated_info.plist -o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app/Contents/Info.plist36"46BF036A-B624-425D-8211-CDFBB223D81F-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+
+CProcessPCH /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch.pch iMobileDevice/iMobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407810128.027130
+e407810128.781213
+r1
+xProcessPCH
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch.pch
+xiMobileDevice/iMobileDevice-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile iMobileDevice/iMobileDevice-Prefix.pch263"ProcessPCH DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch.pch iMobileDevice/iMobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfe0c0750b04eb841^f8fdc750b04eb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice-Prefix.pch0000000000000000^3907"ProcessPCH DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch.pch iMobileDevice/iMobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/iMobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local -I../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/iMobileDevice.build/Debug/iMobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug --serialize-diagnostics /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch.dia -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch.d -c /Volumes/DATA/MY_WORKS/Github/iDeviceManager/iMobileDevice/iMobileDevice-Prefix.pch -o /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Intermediates/PrecompiledHeaders/iMobileDevice-Prefix-cgkqgepqyfglkudisafyhcsmravf/iMobileDevice-Prefix.pch.pch36"D65B1CF5-214E-4FA2-BD3A-9A4229CCCF6C-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+
+CProcessPCH /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Index/PrecompiledHeaders/iMobileDevice-Prefix-fovnlvpkcvsncaejmwrflqyvwmuo_ast/iMobileDevice-Prefix.pch.pch iMobileDevice/iMobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app
+s407810131.204595
+e407810131.210333
+r1
+xTouch
+x/Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Touch /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app70"Touch DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app096e3453b04eb841^0ad93553b04eb841^---0#0#1#--255"Touch DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app    cd /Volumes/DATA/MY_WORKS/Github/iDeviceManager    /usr/bin/touch -c /Volumes/DATA/MY_WORKS/Github/iDeviceManager/DerivedData/iMobileDevice/Build/Products/Debug/iMobileDevice.app36"67E0C251-15DD-49AE-9542-E8B2074BFA3D-
+bBE4E6877-2BD7-4A9A-8F26-F17598571896
+

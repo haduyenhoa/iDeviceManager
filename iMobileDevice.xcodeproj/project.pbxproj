@@ -19,6 +19,11 @@
 		ED288E1218443728004A0DBB /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED288DEE18443728004A0DBB /* Cocoa.framework */; };
 		ED288E1A18443728004A0DBB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = ED288E1818443728004A0DBB /* InfoPlist.strings */; };
 		ED288E1C18443728004A0DBB /* iMobileDeviceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = ED288E1B18443728004A0DBB /* iMobileDeviceTests.m */; };
+		EDD07E10184957E6007717DE /* libMobileDevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EDD07E0F184957E6007717DE /* libMobileDevice.a */; };
+		EDD07E1118495A0D007717DE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED288DF318443728004A0DBB /* Foundation.framework */; };
+		EDD07E1318495A26007717DE /* MobileDevice in Frameworks */ = {isa = PBXBuildFile; fileRef = EDD07E1218495A26007717DE /* MobileDevice */; };
+		EDDE6BB8184E9EA80004E239 /* PXSourceList.m in Sources */ = {isa = PBXBuildFile; fileRef = EDDE6BB4184E9EA80004E239 /* PXSourceList.m */; };
+		EDDE6BBB184EB1690004E239 /* SourceListItem.m in Sources */ = {isa = PBXBuildFile; fileRef = EDDE6BBA184EB1690004E239 /* SourceListItem.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +57,14 @@
 		ED288E1718443728004A0DBB /* iMobileDeviceTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iMobileDeviceTests-Info.plist"; sourceTree = "<group>"; };
 		ED288E1918443728004A0DBB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		ED288E1B18443728004A0DBB /* iMobileDeviceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iMobileDeviceTests.m; sourceTree = "<group>"; };
+		EDD07E0F184957E6007717DE /* libMobileDevice.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libMobileDevice.a; path = ../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/libMobileDevice.a; sourceTree = "<group>"; };
+		EDD07E1218495A26007717DE /* MobileDevice */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = MobileDevice; path = ../../../../../System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice; sourceTree = "<group>"; };
+		EDDE6BB3184E9EA80004E239 /* PXSourceList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PXSourceList.h; sourceTree = "<group>"; };
+		EDDE6BB4184E9EA80004E239 /* PXSourceList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PXSourceList.m; sourceTree = "<group>"; };
+		EDDE6BB5184E9EA80004E239 /* PXSourceListDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PXSourceListDataSource.h; sourceTree = "<group>"; };
+		EDDE6BB6184E9EA80004E239 /* PXSourceListDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PXSourceListDelegate.h; sourceTree = "<group>"; };
+		EDDE6BB9184EB1690004E239 /* SourceListItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SourceListItem.h; sourceTree = "<group>"; };
+		EDDE6BBA184EB1690004E239 /* SourceListItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SourceListItem.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +72,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDD07E1318495A26007717DE /* MobileDevice in Frameworks */,
+				EDD07E1118495A0D007717DE /* Foundation.framework in Frameworks */,
 				ED288DEF18443728004A0DBB /* Cocoa.framework in Frameworks */,
+				EDD07E10184957E6007717DE /* libMobileDevice.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +94,8 @@
 		ED288DE218443728004A0DBB = {
 			isa = PBXGroup;
 			children = (
+				EDD07E0F184957E6007717DE /* libMobileDevice.a */,
+				EDDE6BB0184E9EA80004E239 /* 3rdCodes */,
 				ED288DF418443728004A0DBB /* iMobileDevice */,
 				ED288E1518443728004A0DBB /* iMobileDeviceTests */,
 				ED288DED18443728004A0DBB /* Frameworks */,
@@ -97,6 +115,7 @@
 		ED288DED18443728004A0DBB /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				EDD07E1218495A26007717DE /* MobileDevice */,
 				ED288DEE18443728004A0DBB /* Cocoa.framework */,
 				ED288E1018443728004A0DBB /* XCTest.framework */,
 				ED288DF018443728004A0DBB /* Other Frameworks */,
@@ -119,6 +138,8 @@
 			children = (
 				ED288E0018443728004A0DBB /* MDAppDelegate.h */,
 				ED288E0118443728004A0DBB /* MDAppDelegate.m */,
+				EDDE6BB9184EB1690004E239 /* SourceListItem.h */,
+				EDDE6BBA184EB1690004E239 /* SourceListItem.m */,
 				ED288E0318443728004A0DBB /* MainMenu.xib */,
 				ED288E0918443728004A0DBB /* Images.xcassets */,
 				ED288E0618443728004A0DBB /* iMobileDevice.xcdatamodeld */,
@@ -155,6 +176,25 @@
 				ED288E1818443728004A0DBB /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EDDE6BB0184E9EA80004E239 /* 3rdCodes */ = {
+			isa = PBXGroup;
+			children = (
+				EDDE6BB1184E9EA80004E239 /* PXSourceList */,
+			);
+			path = 3rdCodes;
+			sourceTree = "<group>";
+		};
+		EDDE6BB1184E9EA80004E239 /* PXSourceList */ = {
+			isa = PBXGroup;
+			children = (
+				EDDE6BB3184E9EA80004E239 /* PXSourceList.h */,
+				EDDE6BB4184E9EA80004E239 /* PXSourceList.m */,
+				EDDE6BB5184E9EA80004E239 /* PXSourceListDataSource.h */,
+				EDDE6BB6184E9EA80004E239 /* PXSourceListDelegate.h */,
+			);
+			path = PXSourceList;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,6 +298,8 @@
 			files = (
 				ED288E0818443728004A0DBB /* iMobileDevice.xcdatamodeld in Sources */,
 				ED288DFB18443728004A0DBB /* main.m in Sources */,
+				EDDE6BB8184E9EA80004E239 /* PXSourceList.m in Sources */,
+				EDDE6BBB184EB1690004E239 /* SourceListItem.m in Sources */,
 				ED288E0218443728004A0DBB /* MDAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -391,10 +433,16 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iMobileDevice/iMobileDevice-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"\"../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr\"/**",
+				);
 				INFOPLIST_FILE = "iMobileDevice/iMobileDevice-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"/MY\\ WORKS/iOS/Projects/MacMobileDevice/iMobileDevice",
+					"\"../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug\"",
+					"$(SYSTEM_LIBRARY_DIR)/PrivateFrameworks/MobileDevice.framework/Versions/A",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -408,10 +456,16 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iMobileDevice/iMobileDevice-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"\"../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr\"/**",
+				);
 				INFOPLIST_FILE = "iMobileDevice/iMobileDevice-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"/MY\\ WORKS/iOS/Projects/MacMobileDevice/iMobileDevice",
+					"\"../libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug\"",
+					"$(SYSTEM_LIBRARY_DIR)/PrivateFrameworks/MobileDevice.framework/Versions/A",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;

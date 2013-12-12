@@ -655,46 +655,61 @@
                 <rect key="frame" x="0.0" y="0.0" width="607" height="560"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <splitView focusRingType="none" appearanceType="aqua" dividerStyle="paneSplitter" vertical="YES" id="DlO-bQ-wUW">
-                        <rect key="frame" x="7" y="6" width="595" height="548"/>
+                    <scrollView autohidesScrollers="YES" horizontalLineScroll="19" horizontalPageScroll="10" verticalLineScroll="19" verticalPageScroll="10" usesPredominantAxisScrolling="NO" id="rDQ-ze-qUG">
+                        <rect key="frame" x="-1" y="-1" width="217" height="562"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <subviews>
-                            <customView id="jNi-2i-Mig">
-                                <rect key="frame" x="0.0" y="0.0" width="204" height="548"/>
-                                <autoresizingMask key="autoresizingMask"/>
-                                <subviews>
-                                    <popUpButton verticalHuggingPriority="750" id="PBj-SR-YEd">
-                                        <rect key="frame" x="6" y="516" width="195" height="26"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                        <popUpButtonCell key="cell" type="push" title="Item 1" bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="gii-sC-Rsh" id="X2G-zr-zI1">
-                                            <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
-                                            <font key="font" metaFont="menu"/>
-                                            <menu key="menu" title="OtherViews" id="1MM-GC-3qv">
-                                                <items>
-                                                    <menuItem title="Item 1" state="on" id="gii-sC-Rsh"/>
-                                                    <menuItem title="Item 2" id="UAq-g8-dY8"/>
-                                                    <menuItem title="Item 3" id="6Q8-36-NoE"/>
-                                                </items>
-                                            </menu>
-                                        </popUpButtonCell>
-                                    </popUpButton>
-                                </subviews>
-                            </customView>
-                            <customView id="OZh-HN-9nk">
-                                <rect key="frame" x="214" y="0.0" width="381" height="548"/>
-                                <autoresizingMask key="autoresizingMask"/>
-                            </customView>
-                        </subviews>
-                        <holdingPriorities>
-                            <real value="250"/>
-                            <real value="250"/>
-                        </holdingPriorities>
-                    </splitView>
+                        <clipView key="contentView" id="14j-dh-dMD">
+                            <rect key="frame" x="1" y="17" width="215" height="544"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            <subviews>
+                                <outlineView verticalHuggingPriority="750" allowsExpansionToolTips="YES" columnAutoresizingStyle="lastColumnOnly" multipleSelection="NO" autosaveColumns="NO" headerView="cQx-XS-lF0" indentationPerLevel="16" outlineTableColumn="El8-po-iiG" id="siz-WA-L2j" customClass="PXSourceList">
+                                    <rect key="frame" x="0.0" y="0.0" width="215" height="544"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <size key="intercellSpacing" width="3" height="2"/>
+                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <color key="gridColor" name="gridColor" catalog="System" colorSpace="catalog"/>
+                                    <tableColumns>
+                                        <tableColumn width="101" minWidth="16" maxWidth="1000" id="El8-po-iiG">
+                                            <tableHeaderCell key="headerCell" lineBreakMode="truncatingTail" borderStyle="border" alignment="left">
+                                                <font key="font" metaFont="smallSystem"/>
+                                                <color key="textColor" name="headerTextColor" catalog="System" colorSpace="catalog"/>
+                                                <color key="backgroundColor" white="0.33333298560000002" alpha="1" colorSpace="calibratedWhite"/>
+                                            </tableHeaderCell>
+                                            <textFieldCell key="dataCell" lineBreakMode="truncatingTail" selectable="YES" editable="YES" alignment="left" title="Text Cell" id="Os6-6T-5I4">
+                                                <font key="font" metaFont="system"/>
+                                                <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                                                <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                            </textFieldCell>
+                                            <tableColumnResizingMask key="resizingMask" resizeWithTable="YES" userResizable="YES"/>
+                                        </tableColumn>
+                                    </tableColumns>
+                                    <connections>
+                                        <outlet property="dataSource" destination="494" id="FnL-vR-aMO"/>
+                                        <outlet property="delegate" destination="494" id="oKv-Qq-1bo"/>
+                                    </connections>
+                                </outlineView>
+                            </subviews>
+                            <color key="backgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                        </clipView>
+                        <scroller key="horizontalScroller" hidden="YES" verticalHuggingPriority="750" horizontal="YES" id="vNw-kg-hIk">
+                            <rect key="frame" x="1" y="119" width="223" height="15"/>
+                            <autoresizingMask key="autoresizingMask"/>
+                        </scroller>
+                        <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="37" horizontal="NO" id="RDF-t6-zVp">
+                            <rect key="frame" x="224" y="17" width="15" height="102"/>
+                            <autoresizingMask key="autoresizingMask"/>
+                        </scroller>
+                        <tableHeaderView key="headerView" id="cQx-XS-lF0">
+                            <rect key="frame" x="0.0" y="0.0" width="215" height="17"/>
+                            <autoresizingMask key="autoresizingMask"/>
+                        </tableHeaderView>
+                    </scrollView>
                 </subviews>
             </view>
         </window>
         <customObject id="494" customClass="MDAppDelegate">
             <connections>
+                <outlet property="sourceList" destination="siz-WA-L2j" id="QUm-ZQ-mlK"/>
                 <outlet property="window" destination="371" id="532"/>
             </connections>
         </customObject>
